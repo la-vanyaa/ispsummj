@@ -44,12 +44,12 @@ h1{
 }
 
 h2 {
-   color: ${({ theme }) => theme.colors.heading};
-   font-size: 4.4rem;
-   font-weight: 300;
-   white-space: normal;
-   text-align: center;
-  }
+  color: ${({ theme }) => theme.colors.heading};
+  font-size: 4.4rem;
+  text-align: center;
+  font-weight: 300;
+  white-space: normal;
+ }
 
   h3 {
   font-size: 1.8rem;

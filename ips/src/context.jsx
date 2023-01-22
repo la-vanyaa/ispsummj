@@ -28,7 +28,7 @@ const AppProvider = ({ children }) => {
     return dispatch({
       type: "ORGANIZING_UPDATE",
       payload: {
-        name: "20TH ISP PG CONVENTION OF INDIAN SOCIETY OF PERIODONTOLOGY, 2022",
+        name: "ORGANIZING TEAM",
         image: "./images/about1.svg",
       },
     });

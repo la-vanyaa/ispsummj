@@ -12,7 +12,6 @@ const Welcome = () => {
   return (
     <>
       <HeroSection />
-      <Register />
       <Login />
     </>
   );
